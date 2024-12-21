@@ -23,7 +23,7 @@ Excited to unveil my latest creation: a Salary Predictor App that leverages the 
  
  💡 Visual tools to explore the model’s insights and performance.
 
-  # Technologies in Action
+  # Technologies Used:
   - Python: Numpy, Pandas, scikit-learn, Matplotlib
   - Deployment: Streamlit for an interactive UI and Pickle for efficient model handling
 
