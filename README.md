@@ -27,4 +27,4 @@ Excited to unveil my latest creation: a Salary Predictor App that leverages the 
   - Python: Numpy, Pandas, scikit-learn, Matplotlib
   - Deployment: Streamlit for an interactive UI and Pickle for efficient model handling
 
-This project highlights how machine learning can turn raw data into actionable insights while offering practical tools for everyday use. It’s been a rewarding journey bringing this idea to life and learning along the way!
+This project highlights how machine learning can turn raw data into actionable insights while offering practical tools for everyday use. By analyzing these metrics, we can evaluate the accuracy and precision of the model's predictions and make informed decisions about its effectiveness in real-world scenarios.
