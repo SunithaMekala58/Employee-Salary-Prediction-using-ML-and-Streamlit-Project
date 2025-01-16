@@ -30,7 +30,7 @@
   - Save the trained model using Python's pickle library for later use
 
   # Technologies Used:
-  - Python: Numpy, Pandas, Matplotlib, Pickle
+  - Python: Numpy, Pandas, Matplotlib, Pickle, scikit-learn
   - Deployment: Streamlit for an interactive UI and Pickle for efficient model handling
 
   # Dataset:
