@@ -33,13 +33,13 @@
   - Python: Numpy, Pandas, scikit-learn, Matplotlib
   - Deployment: Streamlit for an interactive UI and Pickle for efficient model handling
 
-  # Dataset
+  # Dataset:
   - The dataset Salary_Data.csv should have two columns:
     1) YearsExperience - Number of years of work experience.
     2) Salary - Salary in dollars.
   - Place this dataset in the root directory of the project.
 
-  # Project Structure
+  # Project Structure:
            salary-prediction/
            │
            ├── Salary_Data.csv             # Dataset file
@@ -59,7 +59,7 @@
      * Save the trained model as linear_regression_model.pkl using pickle.
      * You can also see salary predictions for 12 and 20 years of experience as an example.
 
- # Results
+ # Results:
  - Once the script is executed, it will print the following details:
 
      * Comparison of actual vs predicted salaries for the test set 
