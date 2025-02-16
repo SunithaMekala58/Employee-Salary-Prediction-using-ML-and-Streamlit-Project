@@ -1,4 +1,4 @@
-# Salary Prediction App using Linear Regression Model (using Machine Learning and Streamlit)
+# Employee Salary Prediction using Linear Regression Model (using Machine Learning and Streamlit)
 
   # Description:
 
