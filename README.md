@@ -68,3 +68,7 @@
      * Model performance in terms of R² and MSE
        
 This project highlights how machine learning can turn raw data into actionable insights while offering practical tools for everyday use. By analyzing these metrics, we can evaluate the accuracy and precision of the model's predictions and make informed decisions about its effectiveness in real-world scenarios.
+
+![Output_Salary](https://github.com/user-attachments/assets/06f3838d-0c32-4735-af31-a63efb971845)
+
+
