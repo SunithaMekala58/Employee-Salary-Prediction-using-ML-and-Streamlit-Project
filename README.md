@@ -24,7 +24,7 @@
 
   - Load and preprocess data from CSV
   - Train a linear regression model
-  - Evaluate model performance using Mean Squared Error (MSE) and R² score
+  - Evaluate model performance using R² score
   - Visualize the training and test set results
   - Make predictions for specific years of experience (e.g., 12 and 20 years)
   - Save the trained model using Python's pickle library for later use
